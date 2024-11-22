@@ -13,7 +13,7 @@ from keyboards import kb_soft, kb_start, kb_legal0, kb_legal1, kb_legal2, leg_ke
     kb_bp_ma, kb_bp_AdCamp, kb_bp_CustSer, kb_bp_OrgPlan, kb_bp_RiskAn, kb_bp_FinPlan, bp_FinPlan_keys_add, \
     kb_bp_Margin, kb_bp_ARPU, kb_bp_Unit
 
-TOKEN_API = '6905548076:AAEKal7jmZnJdlb6ieiCWrR_6WydxkhQB2w'
+#TOKEN_API = '1905548076:AAEKal7jmZnJdlb6ieiCWrR_6WydxkhQB2w'
 bot = Bot(TOKEN_API)
 dp = Dispatcher(bot)
 
